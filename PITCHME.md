@@ -68,6 +68,8 @@
 #####  <ruby>LED<rp>（</rp><rt>エル イー ディー</rt><rp>）</rp></ruby>:は<ruby>発行<rp>（</rp><rt>はっこう</rt><rp>）</rp></ruby>ダイオード(Light Emitting Diode)という意味です。Micro:bitには25個のLEDがあり、これを使って数字や文字を表現してます。
 ---
 ### LESSON1「出力」
+Micro:bitのLEDを自由に表示できるようにしよう。
+
 ---
 ### LESSON1 の目的
 
@@ -164,6 +166,17 @@ LESSON1では、Micro:bitの出力を変更する事をやりました。</br>
 ### Bボタンを押して表示する数字を増やそう
 
 ![LESSN2-8](./img/LESSON2-8.png)
+---
+### やってみよう！
+
+Aボタンを押すと、数字が増えて
+Bボタンを押すと、数字が0になる
+
+<div style="position:relative;height:0;padding-bottom:81.97%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:60%;height:60%;" src="https://makecode.microbit.org/---run?id=_idAh5TMpHLFs" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
+
+---
+### ヒント
+![LESSON2-9](./img/LESSON2-9.png)
 
 ---
 ### LESSON3 [制御]
@@ -171,5 +184,11 @@ LESSON1では、Micro:bitの出力を変更する事をやりました。</br>
 
 実際に体験したゲームコントローラーのプログラムを
 改造しながら、学んで行きましょう。
+
+---
+### LESSON3 の目的
+- 条件分岐を理解する
+- 複数の変数を利用する
+- 色々な
 
 ---
