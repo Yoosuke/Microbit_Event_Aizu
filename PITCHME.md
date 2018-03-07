@@ -1,30 +1,44 @@
-# [Micro:bit]("http://microbit.org/")
+# 遊んで学んで-デジタルコンテンツの裏側を見てみよう
+---
+## まずは遊んで見よう！
+
+準備する事
+1. micro:bitをPCをUSBケーブルで繋ぐ
+2. micro:bitに「プログラムファイル」をダウンロード
+3. gameを開始する。
+---
+![game](./img/game.jpg)
+---
+早速　Micro:bitをでプログラムをして見よう！
+
+[Micro:bit]("http://microbit.org/")
+
 ---
 ### <ruby>Tutorial<rp>（</rp><rt>チュートリアル</rt><rp>）</rp></ruby>(まずはじめに使い方の説明)
-![MicrobitのHPでEnglishを日本語に変更しましょう](./img/JPEG/microbit-1.jpg)
+![MicrobitのHPでEnglishを日本語に変更しましょう](./img/microbit-1.jpg)
 ##### [http://microbit.org/](http://microbit.org/)
 ---
-![日本語を選択](./img/JPEG/Japanese.jpg)
+![日本語を選択](./img/Japanese.jpg)
 ---
-![Microbit](./img/JPEG/microbit-ja.jpg)
+![Microbit](./img/microbit-ja.jpg)
 ---
-![下にスクロールして下さい](./img/JPEG/Letscode-1.jpg)
+![下にスクロールして下さい](./img/Letscode-1.jpg)
 ---
-![Let's Codeプログラミングをしようをクリックして下さい](./img/JPEG/Letscode-2.jpg)
+![Let's Codeプログラミングをしようをクリックして下さい](./img/Letscode-2.jpg)
 ---
-![基本をクリックして下さい。](./img/JPEG/howtouse-1.jpg)
+![基本をクリックして下さい。](./img/howtouse-1.jpg)
 ##### 「<ruby>基本<rp>（</rp><rt>きほん</rt><rp>）</rp></ruby>」をクリックしましょう。
 ---
-![さいしょだけをクリックして下さい。](./img/JPEG/howtouse-2.jpg)
+![さいしょだけをクリックして下さい。](./img/howtouse-2.jpg)
 ##### 「<ruby>最初<rp>（</rp><rt>さいしょ</rt><rp>）</rp></ruby>だけ」をクリックしましょう。
 ---
-![最初だけのブロックが出来ている](./img/JPEG/howtouse-3.jpg)
+![最初だけのブロックが出来ている](./img/howtouse-3.jpg)
 ##### 次に、また「<ruby>基本<rp>（</rp><rt>きほん</rt><rp>）</rp></ruby>」をクリックしましょう。
 ---
-![文字列を表示しよう](./img/JPEG/howtouse-4.jpg)
+![文字列を表示しよう](./img/howtouse-4.jpg)
 ##### 「<ruby>文字列<rp>（</rp><rt>もじれつ</rt><rp>）</rp></ruby>を<ruby>表示<rp>（</rp><rt>ひょうじ</rt><rp>）</rp></ruby>」をクリックしましょう。
 ---
-![ブロックをつなげよう](./img/JPEG/howtouse-5.jpg)
+![ブロックをつなげよう](./img/howtouse-5.jpg)
 ##### 「<ruby>文字列<rp>（</rp><rt>もじれつ</rt><rp>）</rp></ruby>を<ruby>表示<rp>（</rp><rt>ひょうじ</rt><rp>）</rp></ruby>」をドラッグして「<ruby>最初<rp>（</rp><rt>さいしょ</rt><rp>）</rp></ruby>だけ」の中に入れよう。
 ---
 ![確認しよう](./img/howtouse-6.png)
@@ -34,7 +48,7 @@
 ##### 左のエリアにドラッグしてブロックを削除しよう。
 
 ---
-### <ruby>LESSON<rp>（</rp><rt>レッスン</rt><rp>）</rp></ruby>1
+### <ruby>LESSON<rp>（</rp><rt>レッスン</rt><rp>）</rp></ruby>
 #### <ruby>操作方法<rp>（</rp><rt>そうさほうほう</rt><rp>）</rp></ruby>は<ruby>理解<rp>（</rp><rt>りかい</rt><rp>）</rp></ruby>しましたか？
 理解ができたところで、実際にmicrobitを自分の思い通りに
 動かせるようにプログラムを組んでいきましょう！
@@ -52,6 +66,8 @@
 #### <ruby>micro:bit<rp>（</rp><rt>マイクロビット</rt><rp>）</rp></ruby>の<ruby>機能紹介<rp>（</rp><rt>きのうしょうかい</rt><rp>）</rp></ruby>⑴ LED
 ![LED](./img/microbit_LED.png)
 #####  <ruby>LED<rp>（</rp><rt>エル イー ディー</rt><rp>）</rp></ruby>:は<ruby>発行<rp>（</rp><rt>はっこう</rt><rp>）</rp></ruby>ダイオード(Light Emitting Diode)という意味です。Micro:bitには25個のLEDがあり、これを使って数字や文字を表現してます。
+---
+### LESSON1「出力」
 ---
 ### LESSON1 の目的
 
@@ -102,11 +118,25 @@
 ![保存先](./img/LESSON-1-6.png)
 
 ---
-###
-
-### LESSON2
+### LESSON2 [入力]
 Micro:bitのLEDに色々な表示ができるようになりましたか？
-LEDの表示は「出力」
-それでは、続いてMicro:bitの「インプット」を使って
+LESSON1では、Micro:bitの出力を変更する事をやりました。</br>
+それでは、続いてMicro:bitの「入力」を使って「出力」する物を変える事をやって見ましょう。
+
+---
+### LESSON2 の目的
+
+- 入力条件について理解する
+- 変数の使い方が分かる
+---
+
+
+
+---
+### LESSON3 [制御]
+それでは、いよいよ、プログラムの制御について学びます。
+
+実際に体験したゲームコントローラーのプログラムを
+改造しながら、学んで行きましょう。
 
 ---
