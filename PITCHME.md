@@ -4,7 +4,7 @@
 
 準備する事
 1. micro:bitをPCをUSBケーブルで繋ぐ
-2. micro:bitに「プログラムファイル」をダウンロード
+2. micro:bitに「プログラムファイル」を入れる
 3. gameを開始する。
 ---
 ![game](./img/game.jpg)
@@ -118,6 +118,10 @@
 ![保存先](./img/LESSON-1-6.png)
 
 ---
+
+
+
+---
 ### LESSON2 [入力]
 Micro:bitのLEDに色々な表示ができるようになりましたか？
 LESSON1では、Micro:bitの出力を変更する事をやりました。</br>
@@ -130,7 +134,36 @@ LESSON1では、Micro:bitの出力を変更する事をやりました。</br>
 - 変数の使い方が分かる
 ---
 
+### ボタンを使って、表示する数値を変えてみよう。
+![LESSON2-1](./img/LESSON2-1.png)
+---
+### Aボタンを押すと「0を表示する」を作る
 
+![LESSON2-2](./img/LESSON2-2.png)
+
+---
+### 変数を使ってみよう[変数]をクリック
+![LESSON2-3](./img/LESSON2-3.png)
+
+---
+### 「変数を０にする」をクリック
+![LESSON2-4](./img/LESSON2-4.png)
+
+---
+### 「変数」を使って数字を表示しよう
+![LESSN2-5](./img/LESSON2-5.png)
+
+---
+### Aボタンを押して「０」が表示された
+![LESSN2-6](./img/LESSON2-6.png)
+---
+### 変数のイメージ
+![LESSN2-7](./img/LESSON2-7.png)
+
+---
+### Bボタンを押して表示する数字を増やそう
+
+![LESSN2-8](./img/LESSON2-8.png)
 
 ---
 ### LESSON3 [制御]
