@@ -116,13 +116,11 @@ Micro:bitのLEDを自由に表示できるようにしよう。
 ![保存する](./img/LESSON-1-5.png)
 - 上をクリックするとプログラムファイルがダウンロードフォルダに保存される。
 ---
-### プログラムをMicro:bitに入れて動かして見よう！
-#### Mac
+#### プログラムをMicro:bitに入れてみよう！Mac版
 ![保存先](./img/LESSON-1-6.png)
 
 ---
-### プログラムをMicro:bitに入れて動かして見よう！
-#### Windows
+#### プログラムをMicro:bitに入れてみよう！Windows版
 ![保存先](./img/LESSON-1-7.png)
 
 ---
