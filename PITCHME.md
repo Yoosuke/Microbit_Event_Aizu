@@ -197,16 +197,24 @@ Bボタンを押すと、数字が0になる
 ---
 ### プログラムを選択する
 
-![LESSON3-2](./img/LESSON3-2.png)
-
----
-### プログラムの全容を確認しよう
-
-![LESSON3-3](./img/LESSON3-3.png)
+![LESSON3-2](./img/LESSON3-3.png)
 
 ---
 ###  ボタンの機能を変更しよう
 
 ![LESSON3-4](./img/LESSON3-4.png)
 ---
-### 
+### A+Bボタンの中を見てみよう
+
+![LESSON3-5](./img/LESSON3-5.png)
+[lightVal]という変数に「明るさ」の中の数値を入れている。
+
+---
+### 「明るさ」の仕組み
+![LESSON3-6](./img/LESSON3-6.png)
+
+---
+### 条件分岐を使ってみよう
+![LESSON3-7](./img/LESSON3-7.png)
+
+---
