@@ -3,36 +3,43 @@
 ## まずは遊んで見よう！
 
 準備する事
-1. ゲームファイルをダウンロード
-2. micro:bitをPCをUSBケーブルで繋ぐ
-3. micro:bitに「プログラムファイル」を入れる
-4. gameを開始する。
+1. プログラムの準備「ゲームファイルをダウンロード」
+2. コントローラの準備１「micro:bitとPCをUSBケーブルで繋ぐ」
+3. コントローラの準備2 「micro:bitにプログラムを入れる」
+4. Gameの開始 「Gameファイルをクリックする」
 ---
-### 準備
-ファイルのダウンロードお使いのPCのOSに合わせてダウンロードしてください。
+### プログラムの準備
+ファイルのダウンロードお使いのPCのOSに合わせてダウンロードしてください。下にある「ダウンロード」をWindowsかMacを選んでクリック
 
 Windows版:[ダウンロード](https://github.com/TheDesignium/playful-learning/blob/master/windows.zip?raw=true)<br />
 Mac版:[ダウンロード](https://github.com/TheDesignium/playful-learning/blob/master/osx.zip?raw=true)
 
 ---
-### Microbitの準備
+### コントローラの準備１[Microbitの準備]
 
 ![Microbit接続](./img/howtouse-add4.png)
 
 ---
-### Microbitにプログラムを入れる
+### コントローラの準備2
+Microbitにプログラムを入れる「動画説明」
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eS0ZpXzmQ0c?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
+### コントローラの準備2
+Microbitにプログラムを入れる
 ![Microbitにプログラムを入れる](./img/howtouse-add5.png)
 
 ---
-### Game開始するファイルの場所(画面はMac版)
+### Gameの開始
+ファイルの場所(画面はMac版)
 ![使い方](./img/howtouse-add1.png)
 
 ---
-#### セキュリティメッセージが出た場合の回避方法(Mac版)
+セキュリティメッセージが出た場合の回避方法(Mac版)
 ![使い方](./img/howtouse-add2.png)
 
 ---
-#### Game画面スタート(Mac版)
+Game画面スタート(Mac版)
 ![使い方](./img/howtouse-add3.png)
 
 ---
@@ -232,7 +239,7 @@ Bボタンを押すと、数字が0になる
 ---
 ###  ボタンの機能を変更しよう
 
-![LESSON3-4](./img/LESSON3-4.png)
+![LESSON3-4](./img/if-5.png)
 ---
 ### A+Bボタンの中を見てみよう
 
@@ -267,24 +274,43 @@ Bボタンを押すと、数字が0になる
 
 ---
 ### 変数を使った条件分岐
-
+![if-1](./img/if-1.png)
 
 ---
-### コントローラーの条件分岐を見てみよう
+### 変数を操る
+![if-2](./img/if-2.png)
+
+---
+### 変数と条件分岐の活用
+![if-3](./img/if-3.png)
+
+---
+### 再び、コントローラーのプロジェクトを開こう
+![if-4](./img/if-4.png)
+
+---
+### A+Bボタンのプログラムを確認しよう
+![if-5](./img/if-5.png)
+
+---
+### A+Bボタンの条件分岐を見てみよう
 ![LESSON3-7](./img/LESSON3-7.png)
 
 
 ---
 ### やってみよう！
-[A+B]を押すと、LEDの画面に1と表示されて、<br />
+[A+B]を押しながら光センサーを隠すとプレイヤーが消える。<br />
+しかし、このままだと、使いづらい！もっと簡単にしよう！<br /><br />
+A+Bボタンをおすと、LEDの画面に1と表示されて、<br />
 もう一度押すと0と表示される。<br />
 1と表示されている間は、プレイヤーが消えて、<br />
 0と表示されている間はプレイヤーが表示されるように改造してみよう。<br />
 flagという変数を作ってやってみよう！
+
 ---
 ### ヒント
 
 ![LESSON3-9](./img/LESSON3-9.png)
 
 ---
-### オリジナルのコントローラーに改造してみよう！
+### さぁ、他にも改造してオリジナルのコントローラーを作ろう！
