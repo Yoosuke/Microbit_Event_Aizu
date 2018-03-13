@@ -3,9 +3,38 @@
 ## まずは遊んで見よう！
 
 準備する事
-1. micro:bitをPCをUSBケーブルで繋ぐ
-2. micro:bitに「プログラムファイル」を入れる
-3. gameを開始する。
+1. ゲームファイルをダウンロード
+2. micro:bitをPCをUSBケーブルで繋ぐ
+3. micro:bitに「プログラムファイル」を入れる
+4. gameを開始する。
+---
+### 準備
+ファイルのダウンロードお使いのPCのOSに合わせてダウンロードしてください。
+
+Windows版:[ダウンロード](https://github.com/TheDesignium/playful-learning/blob/master/windows.zip?raw=true)<br />
+Mac版:[ダウンロード](https://github.com/TheDesignium/playful-learning/blob/master/osx.zip?raw=true)
+
+---
+### Microbitの準備
+
+![Microbit接続](./img/howtouse-add4.png)
+
+---
+### Microbitにプログラムを入れる
+![Microbitにプログラムを入れる](./img/howtouse-add5.png)
+
+---
+### Game開始するファイルの場所(画面はMac版)
+![使い方](./img/howtouse-add1.png)
+
+---
+#### セキュリティメッセージが出た場合の回避方法(Mac版)
+![使い方](./img/howtouse-add2.png)
+
+---
+#### Game画面スタート(Mac版)
+![使い方](./img/howtouse-add3.png)
+
 ---
 ![game](./img/game.jpg)
 ---
@@ -122,7 +151,8 @@ Micro:bitのLEDを自由に表示できるようにしよう。
 ---
 #### プログラムをMicro:bitに入れてみよう！Windows版
 ![保存先](./img/LESSON-1-7.png)
-
+---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F9qchxyo03w?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
 ### LESSON2 [入力]
 Micro:bitのLEDに色々な表示ができるようになりましたか？
@@ -210,17 +240,39 @@ Bボタンを押すと、数字が0になる
 [lightVal]という変数に「明るさ」の中の数値を入れている。
 
 ---
+### 明るさの数値を表示してみよう。
+
+![LESSON3add-1](./img/LESSON3add-1.png)
+
+---
+### 明るさを数字表示に入れてみよう
+![LESSON3add-2](./img/LESSON3add-2.png)
+
+---
+### 明るさの数値を確認
+![LESSON3add-3](./img/LESSON3add-3.png)
+
+---
 ### 「明るさ」の仕組み
 ![LESSON3-6](./img/LESSON3-6.png)
 
 ---
-### 条件分岐を使ってみよう
-![LESSON3-7](./img/LESSON3-7.png)
+### <ruby>条件分岐<rp>（</rp><rt>じょうけんぶんき</rt><rp>）</rp></ruby>
+![LESSON3-6](./img/LESSON3add-4.png)
 
 ---
 ### もっと詳しく条件分岐を知ろう
 
 ![LESSON3-8](./img/LESSON3-8.png)
+
+---
+### 変数を使った条件分岐
+
+
+---
+### コントローラーの条件分岐を見てみよう
+![LESSON3-7](./img/LESSON3-7.png)
+
 
 ---
 ### やってみよう！
