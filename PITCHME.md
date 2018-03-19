@@ -20,7 +20,15 @@ Mac版:[ダウンロード](https://github.com/TheDesignium/playful-learning/blo
 ![Microbit接続](./img/howtouse-add4.png)
 
 ---
-### コントローラの準備2
+### コントローラーの準備２
+
+該当のOSに合わせて、下のリンクをクリックしてください。
+ * MacOSは[コントローラーの準備２(Mac)](#forMac)を参照
+ * Windowsは[コントローラの準備から遊ぶ所まで(Windows)](#forWindows)を参照
+
+---
+### <a name="forMac"> コントローラの準備2(Mac)
+
 Microbitにプログラムを入れる「動画説明」
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eS0ZpXzmQ0c?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -43,6 +51,10 @@ Game画面スタート(Mac版)
 ![使い方](./img/howtouse-add3.png)
 
 ---
+### <a name="forWindows"> コントローラの準備から遊ぶ所まで(Windows)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t0phhhP8FBk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
+
 ![game](./img/game.jpg)
 ---
 早速　Micro:bitをでプログラムをして見よう！
