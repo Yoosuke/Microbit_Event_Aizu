@@ -23,8 +23,8 @@ Mac版:[ダウンロード](https://github.com/TheDesignium/playful-learning/blo
 ### コントローラーの準備２
 
 該当のOSに合わせて、下のリンクをクリックしてください。
- * MacOSは[コントローラーの準備２(Mac)](https://gitpitch.com/Yoosuke/Microbit_Event_Aizu#/6)を参照
- * Windowsは[コントローラの準備から遊ぶ所まで(Windows)](https://gitpitch.com/Yoosuke/Microbit_Event_Aizu#/11)を参照
+ * MacOSは[コントローラーの準備２(Mac)](https://gitpitch.com/Yoosuke/Microbit_Event_Aizu#/5)を参照
+ * Windowsは[コントローラの準備から遊ぶ所まで(Windows)](https://gitpitch.com/Yoosuke/Microbit_Event_Aizu#/10)を参照
 
 ---
 ### <a name="forMac"> コントローラの準備2(Mac)
